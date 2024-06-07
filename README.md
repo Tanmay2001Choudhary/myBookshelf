@@ -15,7 +15,7 @@
 The "Personal Bookshelf" is a React application that allows users to search for books using the Open Library API and maintain a personal bookshelf in the browser using localStorage.
 
 ## About Me
-I am Tanmay Choudhary. Currently pursuing a Master of Computer Applications (MCA) at Vellore Institute of Technology, with skills in React, Node.js, JavaScript, Java, C, C++, Python, etc.. Aspiring Full Stack Web Developer and Data Scientist, good in teamwork, quick learner.
+I am Tanmay Choudhary, currently pursuing a Master of Computer Applications (MCA) at Vellore Institute of Technology, with skills in React, Node.js, JavaScript, Java, C, C++, Python, etc.. Aspiring Full Stack Web Developer and Data Scientist, good in teamwork, quick learner.
 
 ### Prerequisites
 Make sure you have the following software installed on your local machine:
@@ -55,4 +55,4 @@ Make sure you have the following software installed on your local machine:
 
 # Author
 Website - myBookshelf (Replace "#" with the actual website URL once deployed)
-Developer - Priyanshu Agarwal
+Developer - Tanmay Choudhary
