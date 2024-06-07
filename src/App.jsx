@@ -4,12 +4,14 @@ import MyBookshelf from './components/MyBookshelf'
 
 function App() {
   return (
-    <Router>
-      <Routes>
-        <Route path='/' element={<BookSearch />} />
-        <Route path='/myBookShelf' element={<MyBookshelf />} />
-      </Routes>
-    </Router>
+    <div className='app'>
+      <Router>
+        <Routes>
+          <Route path='/' element={<BookSearch />} />
+          <Route path='/myBookShelf' element={<MyBookshelf />} />
+        </Routes>
+      </Router>
+    </div>
   )
 }
 
