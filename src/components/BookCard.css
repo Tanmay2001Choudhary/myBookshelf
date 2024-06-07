@@ -1,0 +1,33 @@
+/* w-52 border-2 border-black rounded-md py-4 px-2 */
+.card {
+  width: 17%;
+  min-height: 25%;
+  border: 2px solid black;
+  border-radius: 0.5rem;
+  padding: 1rem 0.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.card .heading {
+  display: flex;
+  justify-items: center;
+}
+
+.title {
+  width: 45%;
+  font-weight: 700;
+}
+
+.data {
+  width: 50%;
+}
+
+.card-button {
+  width: 10vw;
+  height: 5vh;
+  margin: auto;
+  background-color: #4caf50;
+  border-radius: 2rem;
+}
