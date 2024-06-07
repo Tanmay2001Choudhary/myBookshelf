@@ -9,7 +9,8 @@
     - [Running the Application](#running-the-application)
 4. [Links](#links)
 5. [Built with](#built-with)
-6. [Author](#author)
+6. [Deploy with](#deploy-with)
+7. [Author](#author)
 
 ## Overview
 The "Personal Bookshelf" is a React application that allows users to search for books using the Open Library API and maintain a personal bookshelf in the browser using localStorage.
