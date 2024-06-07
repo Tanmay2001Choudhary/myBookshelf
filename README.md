@@ -1,6 +1,7 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Front-End Intern- test
+## Task Name: "Personal Bookshelf"
+### [a Objective]
+Develop a React application allowing users to search for books using the Open Library API and maintain a personal bookshelf in the browser using the Web Storage API (localStorage) to store the user's bookshelf .
 
 Currently, two official plugins are available:
 
